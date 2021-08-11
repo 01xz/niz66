@@ -11,6 +11,7 @@ which introduces a minor modification to the original Colemak keyboard layout (b
 Info:
 * My keyboard: [Niz Atom66](https://www.nizkeyboard.com/)
 * Why [Colemak](https://colemak.com/)
+* Why [Colemak Mod-DH](https://colemakmods.github.io/mod-dh/)
 * Learn [Colemak](https://colemak.com/Learn)
 * Try [Monkeytype](https://monkeytype.com/)
 
